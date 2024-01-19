@@ -3,11 +3,11 @@
 
 Student @ Kongu Engineering College
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [Portfolio](https://t-dharun.github.io/Portfolio/)                                                 
-- 🌱 I’m currently learning Web Development and DSA
-- 🤔 I’m looking for help with Placements in FAANG
-- 💬 Ask me about Tech
-- 📫 How to reach me :
+> 🔭 Here's my [Portfolio](https://t-dharun.github.io/Portfolio/)                                                 
+> 🌱 I’m currently learning Web Development and DSA
+> 🤔 I’m looking for help with Placements in FAANG
+> 💬 Ask me about Tech
+> 📫 How to reach me :
   
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dharun-t/)
 
